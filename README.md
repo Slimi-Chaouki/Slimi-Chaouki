@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slimi-Chaouki
-- 👀 I’m interested in C/C++ development 
-- 🌱 I’m currently learning electronic engineer
+- 👀 I’m interested Software testing automation/Manual
+- 🌱 I’m currently working as a software test and validation engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
